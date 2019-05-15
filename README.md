@@ -1,2 +1,4 @@
 # new-repo
-Test
+Bu bit test edit
+Evet oyle
+
